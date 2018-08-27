@@ -5,8 +5,7 @@
 2. 支持linux&windows
 
 ### 实现功能
-1.自动备份网络设备配置，支持Cisco,Juniper,H3C，支持telnet%ssh
-2. v0.02版本支持多线程
+自动备份网络设备配置，支持Cisco,Juniper,H3C，支持telnet%ssh,v0.02版本支持多线程
 
 ### sw.txt文件定义
 存放设备登录信息，格式如下：
