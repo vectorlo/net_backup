@@ -1,0 +1,2 @@
+sw1 192.168.100.1 admin admin@123 22 juniper
+sw2 192.168.100.2 hebei hebei@123 22 h3c
